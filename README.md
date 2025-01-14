@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-My name is Dominika and I'm currently studying web development at Mittuniversitet. 
+My name is Dominika and I'm fullstack developer with passion for backend.  
